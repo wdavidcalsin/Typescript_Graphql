@@ -1,4 +1,1 @@
-src/resolvers/ProductResolver.ts
-src/config/typeorm.ts
-src/entity/Product.ts
 node_modules/
